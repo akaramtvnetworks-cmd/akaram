@@ -15,7 +15,7 @@ export default function Navbar() {
         zIndex: 1000,
       }}
     >
-      <h2 style={{ color: "#f7c52b" }}>AKARAM</h2>
+      <h2 style={{ color: "#f7c52b" }}>AKARAM Beta</h2>
 
       <div style={{ display: "flex", gap: "25px" }}>
         <Link to="/" style={{ color: "white", textDecoration: "none" }}>
