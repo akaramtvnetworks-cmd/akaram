@@ -1,0 +1,32 @@
+.footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 50px;
+  border-top: 2px solid gold;
+}
+
+.footer h2 {
+  color: gold;
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  margin: 20px 0;
+}
+
+.footer-links a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: gold;
+}
+
+.copyright {
+  color: #999;
+  font-size: 14px;
+}
